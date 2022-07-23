@@ -77,7 +77,7 @@ function comparer(humanInput, computerInput){
         return "invalid"
     }
 }
-// 4. a functoin which makes computer's input
+// 4. a function which makes computer's input
 function computerGenerated(){
     let number = Math.random()
     if(number < 0.33){
@@ -88,4 +88,4 @@ function computerGenerated(){
         return "scissors"
     }
 }
-// 5. a function for each round (Decided to scrap, each round shit.)
+// 5. a function for each round (Decided to scrap, each round.)
